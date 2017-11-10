@@ -69,7 +69,7 @@ An error has occurred while reading input data
 ```
 #### выходные данные
 ```
-3 4 5 6 7 8 9 10 1 2
+9 10 1 2 3 4 5 6 7 8 9 10
 ```
 #### входные данные
 ```
